@@ -14,7 +14,7 @@ PHP, MySQL (phpMyAdmin)
 
 <table style="border-collapse: separate; border-spacing: 12px; width: 100%;">
     <tr>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:12px; vertical-align: top;">
+        <td style="border:1px solid #30363d; border-radius:6px; padding:12px; vertical-align: bottom;">
             <h3 style="margin-top: 0;">Current Features</h3>
             <ul>
                 <li>Dynamic recipe rendering from database (PHP + MySQL)</li>
@@ -83,11 +83,11 @@ PHP, MySQL (phpMyAdmin)
             <img src="https://github.com/user-attachments/assets/5f7748de-a02c-48dc-a5eb-e7f9ac314464" width="250" />
         </td>
         <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
-            <h3>About Me</h3>
+            <h3>Single Recipe</h3>
             <img src="https://github.com/user-attachments/assets/18029fc0-dbbf-41f2-b0c0-3b39893eb868" width="250" />
         </td>
         <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
-            <h3>About Me</h3>
+            <h3>Single Blog</h3>
             <img src="https://github.com/user-attachments/assets/848eedf0-6e15-4be2-a707-f9cc073a71b9" width="250" />
         </td>
     </tr>
