@@ -12,29 +12,35 @@ HTML5, CSS3, JavaScript, Bootstrap, Font Awesome, jQuery
 ### Backend
 PHP, MySQL (phpMyAdmin)
 
-<table>
+<table style="border-collapse: separate; border-spacing: 12px; width: 100%;">
     <tr>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            ## Current Features
-            - Dynamic recipe rendering from database (PHP + MySQL)
-            - Detailed recipe pages with:
-            - Ingredients list
-            - Accessories list
-            - Step-by-step cooking instructions
-            - Nutritional values
-            - Clean, modern, and visually rich UI
-            - Fully responsive design (desktop, tablet & mobile)
-            - Backend-powered recipe data fetching
-            - Optimized layout and typography for content readability
+        <td style="border:1px solid #30363d; border-radius:6px; padding:12px; vertical-align: top;">
+            <h3 style="margin-top: 0;">Current Features</h3>
+            <ul>
+                <li>Dynamic recipe rendering from database (PHP + MySQL)</li>
+                <li>Detailed recipe pages with:</li>
+                <ul>
+                    <li>Ingredients list</li>
+                    <li>Accessories list</li>
+                    <li>Step-by-step cooking instructions</li>
+                    <li>Nutritional values</li>
+                </ul>
+                <li>Clean, modern, and visually rich UI</li>
+                <li>Fully responsive design (desktop, tablet &amp; mobile)</li>
+                <li>Backend-powered recipe data fetching</li>
+                <li>Optimized layout and typography for content readability</li>
+            </ul>
         </td>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            ## Planned Enhancements - Future Scope
-            - Backend-powered blog system (PHP + MySQL)
-            - Convert all pages into database-backed PHP pages
-            - Pagination for recipes and blog listings
-            - Category-based filtering
-            - Admin panel for managing recipes and blogs
-            - Performance optimizations and query refinement
+        <td style="border:1px solid #30363d; border-radius:6px; padding:12px; vertical-align: top;">
+            <h3 style="margin-top: 0;">Planned Enhancements – Future Scope</h3>
+            <ul>
+                <li>Backend-powered blog system (PHP + MySQL)</li>
+                <li>Convert all pages into database-backed PHP pages</li>
+                <li>Pagination for recipes and blog listings</li>
+                <li>Category-based filtering</li>
+                <li>Admin panel for managing recipes and blogs</li>
+                <li>Performance optimizations and query refinement</li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -56,24 +62,20 @@ PHP, MySQL (phpMyAdmin)
 
 ## Website Preview
 <table>
-    <tr>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            <h2>Home</h2>
-            ![Screenshot_5-1-2026_13225_](https://github.com/user-attachments/assets/f2a8b0ea-f412-425d-8caf-e100bc1139da)
-        </td>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            <h2>All Recipes</h2>
-            ![Screenshot_5-1-2026_13243_](https://github.com/user-attachments/assets/ff3323a7-088e-4e7a-b872-f27e12a6b44d)
-        </td>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            <h2>All Blogs</h2>
-            ![Screenshot_5-1-2026_13321_](https://github.com/user-attachments/assets/1c74064b-679b-478c-9b8e-c860542ac498)
-        </td>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            <h2>About Me</h2>
-            ![Screenshot_5-1-2026_1367_](https://github.com/user-attachments/assets/5f7748de-a02c-48dc-a5eb-e7f9ac314464)
-        </td>
-    </tr>
+  <tr>
+    <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
+      <h3>Home</h3>
+      <img src="https://github.com/user-attachments/assets/f2a8b0ea-f412-425d-8caf-e100bc1139da" width="250"/>
+    </td>
+    <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
+      <h3>All Recipes</h3>
+      <img src="https://github.com/user-attachments/assets/ff3323a7-088e-4e7a-b872-f27e12a6b44d" width="250"/>
+    </td>
+    <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
+      <h3>All Blogs</h3>
+      <img src="https://github.com/user-attachments/assets/1c74064b-679b-478c-9b8e-c860542ac498" width="250"/>
+    </td>
+  </tr>
 </table>
 
 <table>
