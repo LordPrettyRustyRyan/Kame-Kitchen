@@ -7,10 +7,17 @@ The platform currently fetches recipe data dynamically from the backend with cle
 ---
 
 ## Tech Stack
-### Frontend
-HTML5, CSS3, JavaScript, Bootstrap, Font Awesome, jQuery
-### Backend
-PHP, MySQL (phpMyAdmin)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+
 
 <table style="border-collapse: separate; border-spacing: 12px; width: 100%;">
     <tr>
@@ -47,17 +54,6 @@ PHP, MySQL (phpMyAdmin)
 
 ---
 
-## How to Run Locally:
-1. Download or Clone the repository  
-   ```bash
-   git clone https://github.com/LordPrettyRustyRyan/Kame-Kitchen.git
-2. Import database
-- Open phpMyAdmin
-- Import sql/kame_kitchen.sql
-3. Configure database
-- Update credentials in config.php
-4. Run using local server (XAMPP / WAMP / MAMP / AMPPS)
-
 ## Website Preview
 <table>
   <tr>
@@ -92,3 +88,16 @@ PHP, MySQL (phpMyAdmin)
         </td>
     </tr>
 </table>
+
+---
+
+## How to Run Locally:
+1. Download or Clone the repository  
+   ```bash
+   git clone https://github.com/LordPrettyRustyRyan/Kame-Kitchen.git
+2. Import database
+- Open phpMyAdmin
+- Import sql/kame_kitchen.sql
+3. Configure database
+- Update credentials in config.php
+4. Run using local server (XAMPP / WAMP / MAMP / AMPPS)
