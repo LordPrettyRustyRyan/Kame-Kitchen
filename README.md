@@ -21,13 +21,11 @@ PHP, MySQL (phpMyAdmin)
                 <li>Detailed recipe pages with:</li>
                 <ul>
                     <li>Ingredients list</li>
-                    <li>Accessories list</li>
                     <li>Step-by-step cooking instructions</li>
                     <li>Nutritional values</li>
                 </ul>
                 <li>Clean, modern, and visually rich UI</li>
                 <li>Fully responsive design (desktop, tablet &amp; mobile)</li>
-                <li>Backend-powered recipe data fetching</li>
                 <li>Optimized layout and typography for content readability</li>
             </ul>
         </td>
@@ -80,13 +78,17 @@ PHP, MySQL (phpMyAdmin)
 
 <table>
     <tr>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            <h2>Single Recipe</h2>
-            ![Screenshot_5-1-2026_1337_](https://github.com/user-attachments/assets/18029fc0-dbbf-41f2-b0c0-3b39893eb868)
+        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
+            <h3>About Me</h3>
+            <img src="https://github.com/user-attachments/assets/5f7748de-a02c-48dc-a5eb-e7f9ac314464" width="250" />
         </td>
-        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;">
-            <h2>Single Blog</h2>
-            ![Screenshot_5-1-2026_13332_](https://github.com/user-attachments/assets/848eedf0-6e15-4be2-a707-f9cc073a71b9)
+        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
+            <h3>About Me</h3>
+            <img src="https://github.com/user-attachments/assets/18029fc0-dbbf-41f2-b0c0-3b39893eb868" width="250" />
+        </td>
+        <td style="border:1px solid #30363d; border-radius:6px; padding:6px;" align="center">
+            <h3>About Me</h3>
+            <img src="https://github.com/user-attachments/assets/848eedf0-6e15-4be2-a707-f9cc073a71b9" width="250" />
         </td>
     </tr>
 </table>
